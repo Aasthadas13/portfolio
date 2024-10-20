@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Quiz App",
+    "imageSrc": "projects/quizApp.png",
+    "description": "A simple and interactive quiz application with multiple-choice questions.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://aasthadas13.github.io/Quiz-App/",
+    "source": "https://github.com/aasthadas13/Quiz-App"
+  },
+  {
+    "title": "To-do List",
+    "imageSrc": "projects/to-do-list.png",
+    "description": "A task management app that allows users to add, edit, and delete to-do tasks.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://aasthadas13.github.io/to-do-list/",
+    "source": "https://github.com/aasthadas13/to-do-list"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weatherApp.png",
+    "description": "A web app that displays the weather forecast based on the user's location.",
+    "skills": ["JavaScript", "Weather API"],
+    "demo": "https://aasthadas13.github.io/Weather-App/",
+    "source": "https://github.com/aasthadas13/Weather-App"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/passwordGenerator.png",
+    "description": "An app that generates secure passwords based on user-defined criteria.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://aasthadas13.github.io/Password-Generator/",
+    "source": "https://github.com/aasthadas13/Password-Generator"
+  },
+  {
+    "title": "Bootstrap Website",
+    "imageSrc": "projects/project.png",
+    "description": "A responsive website designed using Bootstrap for layout and styling.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://aasthadas13.github.io/Bootstrap-website-2/",
+    "source": "https://github.com/aasthadas13/Bootstrap-website-2"
+  },
+  {
+    "title": "Drum Kit",
+    "imageSrc": "projects/drumKit.png",
+    "description": "An interactive drum kit that allows users to play sounds using keyboard or mouse.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://aasthadas13.github.io/Drum-kit/",
+    "source": "https://github.com/aasthadas13/Drum-kit"
+  }
+  
+]
